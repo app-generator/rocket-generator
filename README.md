@@ -2,6 +2,8 @@
 
 Choose your favorite design, customize and generate Apps and APIs on top of **Django**, a leading Python framework.
 
+> 👉 [Rocket Generator](https://app-generator.dev/) - `FREE Service` 
+
 <br />
 
 ## Features
