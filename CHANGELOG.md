@@ -1,5 +1,18 @@
 # Change Log
 
+## [0.0.11] 2023-05-30
+### Changes
+
+- UPD Tasks page Refresh
+- Update HOMEpage Video
+  - [Rocket Generator - Tabler UI](https://www.youtube.com/watch?v=4taJFTzu3EE)
+
+## [0.0.10] 2023-05-30
+### Changes
+
+- Added [Tabler](https://appseed.us/product/tabler/django/) Design
+  - UI Version: `v1.0.0-beta19`
+
 ## [0.0.9] 2023-05-24
 ### Changes
 
