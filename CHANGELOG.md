@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.12] 2023-08-04
+### Changes
+
+- Make the registration optional
+
 ## [0.0.11] 2023-05-30
 ### Changes
 
